@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "same side",
+  "base_artist": "KEIJU",
+  "createdAt": "2026-02-21T16:01:59.652449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Same Side Sitters",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/01_Same_Side_Sitters_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Same Side",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/02_Same_Side_Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAME SIDE",
+      "artist": "Jessie Reyez",
+      "has_synced": true,
+      "path": "select/03_SAME_SIDE_Jessie_Reyez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fightin' On The Same Side",
+      "artist": "The Hooters",
+      "has_synced": false,
+      "path": "select/04_Fightin'_On_The_Same_Side_The_Hooters.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fightin' On The Same Side",
+      "artist": "Hooters",
+      "has_synced": false,
+      "path": "select/05_Fightin'_On_The_Same_Side_Hooters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fightin? On The Same Side",
+      "artist": "Hooters",
+      "has_synced": false,
+      "path": "select/06_Fightin__On_The_Same_Side_Hooters.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Same Side (feat. Rob49)",
+      "artist": "Lil Durk feat. Rob49",
+      "has_synced": true,
+      "path": "select/07_Same_Side_(feat._Rob49)_Lil_Durk_feat._Rob49.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Same Side (feat. Rob49)",
+      "artist": "Lil Durk, Rob49",
+      "has_synced": true,
+      "path": "select/08_Same_Side_(feat._Rob49)_Lil_Durk,_Rob49.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Same Side",
+      "artist": "Lil Durk feat. Rob49",
+      "has_synced": true,
+      "path": "select/09_Same_Side_Lil_Durk_feat._Rob49.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Same Side",
+      "artist": "The Casket Girls",
+      "has_synced": true,
+      "path": "select/10_Same_Side_The_Casket_Girls.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Same Side (feat. Rob49)",
+      "artist": "Lil Durk",
+      "has_synced": false,
+      "path": "select/11_Same_Side_(feat._Rob49)_Lil_Durk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Same Side",
+      "artist": "courtship.",
+      "has_synced": true,
+      "path": "select/12_Same_Side_courtship..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Same Side",
+      "artist": "Lucie Silvas",
+      "has_synced": true,
+      "path": "select/13_The_Same_Side_Lucie_Silvas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Same Side",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/14_Same_Side_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Same Side",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/15_Same_Side_Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "same side",
+      "artist": "KEIJU",
+      "has_synced": false,
+      "path": "select/pl_01_same_side_KEIJU.txt"
+    }
+  ]
+}
